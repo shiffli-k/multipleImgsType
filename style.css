@@ -1,0 +1,19 @@
+body {
+    background-color: #1D3557;
+    font-family: monospace;
+}
+
+h1 {
+    color: #E63946;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    color: #F1FAEE;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+img {
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
